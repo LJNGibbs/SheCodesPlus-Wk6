@@ -42,6 +42,13 @@ p {
   font-weight: 500;
 }
 
+link {
+  color: #5a6275;
+  font-family: "Major Mono Display", monospace;
+  font-family: "Quicksand", sans-serif;
+  font-weight: 500;
+}
+
 li {
   text-align: right;
   color: #5a6275;
