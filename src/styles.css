@@ -46,8 +46,6 @@ a {
   color: #5a6275;
   font-family: "Major Mono Display", monospace;
   font-family: "Quicksand", sans-serif;
-  font-weight: 100;
-  font-size: 12px;
   text-align: right;
   text-decoration: none;
 }
@@ -56,19 +54,8 @@ a:hover {
   color: #71bfcc;
   font-family: "Major Mono Display", monospace;
   font-family: "Quicksand", sans-serif;
-  font-weight: 100;
-  font-size: 12px;
   text-align: right;
   text-decoration: none;
-}
-
-h6 {
-  color: #5a6275;
-  font-family: "Major Mono Display", monospace;
-  font-family: "Quicksand", sans-serif;
-  font-weight: 100;
-  font-size: 12px;
-  text-align: right;
 }
 
 li {
