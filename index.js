@@ -1,4 +1,3 @@
-import "./styles.css";
 
 //Feature 1
 let dateElement = document.querySelector("#date");
